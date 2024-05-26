@@ -4,7 +4,7 @@ provider:
   name: aws
   runtime: nodejs18.x
   stage: dev
-  region: ap-south-a
+  region: ap-south-1
 
 functions:
   hello:
